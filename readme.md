@@ -2,4 +2,4 @@
 
 **Name**: Will Franzen
 
-Hello, world!
+Hello, everyone!
